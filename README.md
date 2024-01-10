@@ -19,9 +19,7 @@ I sometimes or i should probobly say rarely i write stuff at :page_with_curl: ww
 Sometimes i even write code just for fun
 
 
-<pre>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=neisep&theme=gruvbox" /><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neisep&layout=compact&langs_count=8&card_width=320" />
-</pre>
+<pre><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=neisep&theme=gruvbox" /><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neisep&layout=compact&langs_count=8&card_width=320" /></pre>
 
 
 💀 Over and out
