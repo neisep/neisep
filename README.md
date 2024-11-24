@@ -21,5 +21,6 @@ Sometimes i even write code just for fun
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=neisep&theme=tokyonight&card_width=300"/> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neisep&layout=compact&langs_count=8&card_width=300&theme=tokyonight" /></a>
 
+![](https://komarev.com/ghpvc/?username=neisep&style=flat-square)
 
 💀 Over and out
