@@ -3,8 +3,6 @@
 - 👋 Hi, I’m @neisep i work as software developer
 - 👀 I’m interested in Rust and C# desktop and backend
 - 👨‍🏫 I’m currently learning Dutch and Rust
-- 📫 How to reach me neisep AT neisep.com
-- 💽 Learning resources: www.pluralsight.com and for language dutch i use: www.duolingo.com
 
 > [!WARNING]
 > I have two repos that i use for testing out new things or learning by doing:<br>
