@@ -1,8 +1,8 @@
 # NeiSep
 
 - 👋 Hi, I’m @neisep i work as software developer
-- 👀 I’m interested in Rust and C# desktop and backend
-- 👨‍🏫 I’m currently learning Dutch and Rust
+- 👀 I’m interested in Kotlin and Golang and C# desktop and backend
+- 👨‍🏫 I’m currently learning Dutch and Kotlin
 
 > [!WARNING]
 > I have two repos that i use for testing out new things or learning by doing:<br>
