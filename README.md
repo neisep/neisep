@@ -1,5 +1,4 @@
 <img src="assets/header.svg" width="100%">
-<img src="assets/cyberpunk-terminal.svg" width="100%">
 
 # NeiSep
 
