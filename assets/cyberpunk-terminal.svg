@@ -25,7 +25,7 @@
 
   <rect x="5" y="5" width="890" height="190" rx="8" class="frame" />
 
-  <text x="25" y="60" class="terminal">&gt; booting JimmieOS v2.6...</text>
+  <text x="25" y="60" class="terminal">&gt; booting NeiSepOS v2.6...</text>
   <text x="25" y="95" class="terminal">[ OK ] Loading native modules...</text>
   <text x="25" y="130" class="terminal">[ OK ] Initializing cyberpunk interface...</text>
   <text x="25" y="165" class="terminal">System online. Welcome, Operator.</text>
